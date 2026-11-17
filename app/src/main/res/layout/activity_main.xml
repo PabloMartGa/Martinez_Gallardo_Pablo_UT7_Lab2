@@ -77,8 +77,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="4dp"
                 android:layout_weight="1"
-                android:text="@string/btn_guardar"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:text="@string/btn_guardar" />
 
             <Button
                 android:id="@+id/btnLeer"
@@ -86,16 +85,14 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="4dp"
                 android:layout_weight="1"
-                android:text="@string/btn_leer"
-                style="?android:attr/buttonBarButtonStyle" />
+                android:text="@string/btn_leer" />
         </LinearLayout>
 
         <Button
             android:id="@+id/btnEjemplo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/btn_ejemplo"
-            style="?android:attr/buttonBarButtonStyle" />
+            android:text="@string/btn_ejemplo" />
 
         <!-- Mensaje de estado (ruta donde se guardó o leyó el fichero) -->
         <TextView
