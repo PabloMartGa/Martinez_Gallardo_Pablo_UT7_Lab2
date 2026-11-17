@@ -1,9 +1,8 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.Pergaminos_Ciudadela_Blanca" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+<resources>
+    <style name="Theme.Pergaminos" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/marron</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="android:windowBackground">@color/pergamino</item>
+        <item name="android:statusBarColor">@color/marron_oscuro</item>
     </style>
-
-    <style name="Theme.Pergaminos_Ciudadela_Blanca" parent="Base.Theme.Pergaminos_Ciudadela_Blanca" />
 </resources>
