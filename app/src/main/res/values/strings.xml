@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Pergaminos_Ciudadela_Blanca</string>
+    <string name="app_name">Pergaminos de la Ciudadela Blanca</string>
+    <string name="titulo">Pergaminos de Minas Tirith</string>
+    <string name="hint_nombre">Nombre del pergamino (ej: cronica)</string>
+    <string name="hint_contenido">Escribe aquí la crónica o el parte</string>
+    <string name="tipo_interno">Confidencial (memoria interna)</string>
+    <string name="tipo_externo">Mapa de campaña (almacenamiento externo)</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_leer">Leer</string>
+    <string name="btn_ejemplo">Cargar ejemplo</string>
+    <string name="resultado_titulo">Contenido leído:</string>
 </resources>
